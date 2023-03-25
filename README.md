@@ -1,4 +1,4 @@
-# Dappcord
+# DiscussFt
 
 ## Technology Stack & Tools
 
